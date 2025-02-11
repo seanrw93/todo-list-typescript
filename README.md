@@ -2,6 +2,23 @@
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
+This is a simple TypeScript project using Snowpack. The project is a simple to-do list application that allows you to add, remove, and manage your tasks efficiently.
+
+## Installation Instructions
+
+1. Clone the repository:
+    ```sh
+    git clone <repository-url>
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd /c:/Users/Sean/Documents/todo-tsc
+    ```
+3. Install the dependencies:
+    ```sh
+    npm install
+    ```
+
 ## Available Scripts
 
 ### npm start
