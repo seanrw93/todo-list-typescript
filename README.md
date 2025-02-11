@@ -10,10 +10,8 @@ This is a simple TypeScript project using Snowpack. The project is a simple to-d
     ```sh
     git clone <repository-url>
     ```
-2. Navigate to the project directory:
-    ```sh
-    cd /c:/Users/Sean/Documents/todo-tsc
-    ```
+2. Navigate to the project directory
+
 3. Install the dependencies:
     ```sh
     npm install
